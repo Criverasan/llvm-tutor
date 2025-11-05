@@ -71,3 +71,6 @@ foreach( plugin ${LLVM_TUTOR_PLUGINS} )
       "$<$<PLATFORM_ID:Darwin>:-undefined dynamic_lookup>"
       )
 endforeach()
+add_subdirectory(SimpleLICM)
+add_subdirectory(DerivedIVElim)
+

@@ -1,0 +1,7 @@
+build/
+*.so
+*.dylib
+*.o
+*.obj
+*.a
+*.ll.tmp
