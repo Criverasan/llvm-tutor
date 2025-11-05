@@ -13,7 +13,7 @@ Both passes are implemented and tested within the LLVM New Pass Manager framewor
 
 ---
 
-## 🧱 Build Instructions
+## Build Instructions
 Make sure you have LLVM installed (e.g., via Homebrew on macOS):
 
 ```bash
